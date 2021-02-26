@@ -1,1 +1,1 @@
-"This is File B" 
+"Changing file B for third commit" 

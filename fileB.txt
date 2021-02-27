@@ -1,1 +1,1 @@
-"Changing file B for third commit" 
+"Changing file B for third commit" - Feature commit
